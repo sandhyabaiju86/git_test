@@ -1,1 +1,1 @@
-s is Sandhya's first git project.
+This is Sandhya's first git project.
